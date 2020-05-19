@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DataLib;
 
 namespace HW
 {
@@ -14,6 +15,7 @@ namespace HW
     {
         public Form1()
         {
+            Data data = new Data();
             InitializeComponent();
         }
     }

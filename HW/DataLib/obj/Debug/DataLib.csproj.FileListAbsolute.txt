@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\bin\Debug\DataLib.dll
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\bin\Debug\DataLib.pdb
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.dll
+\\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.pdb

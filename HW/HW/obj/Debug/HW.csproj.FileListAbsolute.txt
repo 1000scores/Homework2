@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\C#\Homework2\HW\HW\bin\Debug\HW.exe.config
+\\Mac\Home\Documents\C#\Homework2\HW\HW\bin\Debug\HW.exe
+\\Mac\Home\Documents\C#\Homework2\HW\HW\bin\Debug\HW.pdb
+\\Mac\Home\Documents\C#\Homework2\HW\HW\bin\Debug\DataLib.dll
+\\Mac\Home\Documents\C#\Homework2\HW\HW\bin\Debug\DataLib.pdb
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.Properties.Resources.resources
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.csproj.CopyComplete
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.exe
+\\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.pdb
