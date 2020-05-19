@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 using DataLib;
 
 namespace HW
@@ -17,6 +9,12 @@ namespace HW
         {
             Data data = new Data();
             InitializeComponent();
+            Graph g = new Graph(data.input);
+
+            g.Dock = DockStyle.Fill;
+
+            panel1.Controls.Clear();
+            panel1.Controls.Add(g);
         }
     }
 }

@@ -10,3 +10,29 @@
 \\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.csproj.CopyComplete
 \\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.exe
 \\Mac\Home\Documents\C#\Homework2\HW\HW\obj\Debug\HW.pdb
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\bin\Debug\HW.exe.config
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\bin\Debug\HW.exe
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\bin\Debug\HW.pdb
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\bin\Debug\DataLib.dll
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\bin\Debug\DataLib.pdb
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.Graph.resources
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.Properties.Resources.resources
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.csproj.CopyComplete
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.exe
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.pdb
+D:\Учеба\Программирование\Новая папка\Homework2-master\HW\HW\obj\Debug\HW.Form1.resources
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\bin\Debug\HW.exe.config
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\bin\Debug\HW.exe
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\bin\Debug\HW.pdb
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\bin\Debug\DataLib.dll
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\bin\Debug\DataLib.pdb
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.Form1.resources
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.Graph.resources
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.Properties.Resources.resources
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.csproj.CopyComplete
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.exe
+D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.pdb

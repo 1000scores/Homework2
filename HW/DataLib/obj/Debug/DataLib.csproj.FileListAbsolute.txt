@@ -4,3 +4,8 @@
 \\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.dll
 \\Mac\Home\Documents\C#\Homework2\HW\DataLib\obj\Debug\DataLib.pdb
+D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\bin\Debug\DataLib.dll
+D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\bin\Debug\DataLib.pdb
+D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.dll
+D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.pdb
