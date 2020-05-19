@@ -36,3 +36,16 @@ D:\Учеба\Программирование\Новая папка\HW\HW\HW\ob
 D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.csproj.CopyComplete
 D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.exe
 D:\Учеба\Программирование\Новая папка\HW\HW\HW\obj\Debug\HW.pdb
+D:\Личные\Gir Repose\Homework2\HW\HW\bin\Debug\HW.exe.config
+D:\Личные\Gir Repose\Homework2\HW\HW\bin\Debug\HW.exe
+D:\Личные\Gir Repose\Homework2\HW\HW\bin\Debug\HW.pdb
+D:\Личные\Gir Repose\Homework2\HW\HW\bin\Debug\DataLib.dll
+D:\Личные\Gir Repose\Homework2\HW\HW\bin\Debug\DataLib.pdb
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.Form1.resources
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.Graph.resources
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.Properties.Resources.resources
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.csproj.CopyComplete
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.exe
+D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.pdb
