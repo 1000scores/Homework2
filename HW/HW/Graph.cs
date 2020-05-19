@@ -8,25 +8,32 @@ namespace HW
 {
     public partial class Graph : UserControl
     {
+        // Set с названиями округов.
         HashSet<string> names = new HashSet<string>();
+
+        // Set с годами для данного округа.
         HashSet<int> years = new HashSet<int>();
 
+
+        // Показатель каждого месяца.
         int[] mounth_value = new int[12];
 
-        List<Element> current_elements = new List<Element>();
-
+        // Массив всех месяцев.
         private string[] Mounths =
         {
             "Январь", "Февраль", "Март", "Апрель", "Май", "Июнь",
             "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрть"
         };
 
+        // Элементы загруженные в usercontrol.
         private List<Element> elements;
+
         public Graph(List<Element> elements)
         {
             this.elements = elements;
             InitializeComponent();
 
+            // Установка значений первого комбо бокса.
             foreach (var item in elements)
             {
                 names.Add(item.name);
@@ -38,16 +45,18 @@ namespace HW
             }
         }
 
-        private void Draw_button_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        /// <summary>
+        /// Рисует график
+        /// </summary>
+        /// <param name="gr">
+        /// Graphics на котором надо рисовать.
+        /// </param>
         private void Draw(Graphics gr)
         {
             // Подготовка холста.
             gr.Clear(Color.Azure);
 
+            // Установка размеров.
             int xMax = pictureBox1.ClientSize.Width;
             int yMax = pictureBox1.ClientSize.Height;
 
@@ -58,18 +67,24 @@ namespace HW
 
             Pen pen1 = new Pen(Color.Black);
 
+            // Отрисовка координат.
             gr.DrawLine(pen1, xMinRis, yMaxRis, xMaxRis, yMaxRis);
             gr.DrawLine(pen1, xMinRis, yMaxRis, xMinRis, yMinRis);
 
+            // Переменная для прощета процентного соотношения.
             double alfa;
 
+            // Максимально значение для данного графика.
             int maxRisOfRec = 1;
-            for (int i = 0; i<12; i++)
+
+            // Поиск максимума.
+            for (int i = 0; i < 12; i++)
             {
                 if (mounth_value[i] > maxRisOfRec)
                     maxRisOfRec = mounth_value[i];
             }
 
+            // Отрисовка графика.
             for (int i = 1; i <= 12; i++)
             {
                 float h, w = 10;
@@ -90,18 +105,34 @@ namespace HW
             }
         }
 
+        /// <summary>
+        /// Отрисовка графика.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
             Draw(e.Graphics);
         }
 
 
-
+        /// <summary>
+        /// Перересовка графика при изменении
+        /// размеров формы.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Graph_Resize(object sender, EventArgs e)
         {
             pictureBox1.Invalidate();
         }
 
+        /// <summary>
+        /// Настройка второго combobox
+        /// после выбора первого.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             years.Clear();
@@ -121,6 +152,15 @@ namespace HW
             comboBox2.SelectedIndex = 0;
         }
 
+        /// <summary>
+        /// Получает номер месяца.
+        /// </summary>
+        /// <param name="mounth">
+        /// Название месяца.
+        /// </param>
+        /// <returns>
+        /// Номер месяца с 0(счет идет с Января).
+        /// </returns>
         private int MounthNumber(string mounth)
         {
             int number = 0;
@@ -134,6 +174,12 @@ namespace HW
             return number;
         }
 
+        /// <summary>
+        /// Отрисовка графика после выбора
+        /// второго combobox.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             mounth_value = new int[12];
