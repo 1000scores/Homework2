@@ -32,7 +32,6 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.таблицаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.графикToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.таблицаToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -66,17 +65,10 @@
             // 
             // графикToolStripMenuItem
             // 
-            this.графикToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripMenuItem1});
             this.графикToolStripMenuItem.Name = "графикToolStripMenuItem";
             this.графикToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.графикToolStripMenuItem.Text = "График";
             this.графикToolStripMenuItem.Click += new System.EventHandler(this.графикToolStripMenuItem_Click_1);
-            // 
-            // toolStripMenuItem1
-            // 
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(67, 22);
             // 
             // таблицаToolStripMenuItem1
             // 
@@ -108,7 +100,6 @@
         private System.Windows.Forms.ToolStripMenuItem таблицаToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem графикToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem таблицаToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
     }
 }
 
