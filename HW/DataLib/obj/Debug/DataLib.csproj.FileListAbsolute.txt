@@ -9,3 +9,9 @@ D:\Учеба\Программирование\Новая папка\HW\HW\DataL
 D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
 D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.dll
 D:\Учеба\Программирование\Новая папка\HW\HW\DataLib\obj\Debug\DataLib.pdb
+D:\Web\HomeworkProga\HW\DataLib\bin\Debug\DataLib.dll
+D:\Web\HomeworkProga\HW\DataLib\bin\Debug\DataLib.pdb
+D:\Web\HomeworkProga\HW\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+D:\Web\HomeworkProga\HW\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
+D:\Web\HomeworkProga\HW\DataLib\obj\Debug\DataLib.dll
+D:\Web\HomeworkProga\HW\DataLib\obj\Debug\DataLib.pdb

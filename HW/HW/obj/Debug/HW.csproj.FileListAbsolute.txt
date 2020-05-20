@@ -49,3 +49,18 @@ D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.csproj.GenerateResource.
 D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.csproj.CopyComplete
 D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.exe
 D:\Личные\Gir Repose\Homework2\HW\HW\obj\Debug\HW.pdb
+D:\Web\HomeworkProga\HW\HW\bin\Debug\HW.exe.config
+D:\Web\HomeworkProga\HW\HW\bin\Debug\HW.exe
+D:\Web\HomeworkProga\HW\HW\bin\Debug\HW.pdb
+D:\Web\HomeworkProga\HW\HW\bin\Debug\DataLib.dll
+D:\Web\HomeworkProga\HW\HW\bin\Debug\DataLib.pdb
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.DataTable.resources
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.Form1.resources
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.Graph.resources
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.Properties.Resources.resources
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.csproj.CopyComplete
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.exe
+D:\Web\HomeworkProga\HW\HW\obj\Debug\HW.pdb

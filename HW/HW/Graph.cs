@@ -36,7 +36,7 @@ namespace HW
             // Установка значений первого комбо бокса.
             foreach (var item in elements)
             {
-                names.Add(item.name);
+                names.Add(item.Name);
             }
 
             foreach (var item in names)
@@ -140,8 +140,8 @@ namespace HW
 
             foreach (var item in elements)
             {
-                if (item.name.Equals(comboBox1.SelectedItem))
-                    years.Add(item.year);
+                if (item.Name.Equals(comboBox1.SelectedItem))
+                    years.Add(item.Year);
             }
 
             foreach (var item in years)
@@ -186,9 +186,9 @@ namespace HW
 
             foreach (var item in elements)
             {
-                if (item.name.Equals(comboBox1.SelectedItem) && item.year == Convert.ToInt32(comboBox2.SelectedItem))
+                if (item.Name.Equals(comboBox1.SelectedItem) && item.Year == Convert.ToInt32(comboBox2.SelectedItem))
                 {
-                    mounth_value[MounthNumber(item.month)] = item.numberOfCalls;
+                    mounth_value[MounthNumber(item.Month)] = item.NumberOfCalls;
                 }
             }
 

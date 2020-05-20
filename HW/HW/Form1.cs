@@ -29,7 +29,14 @@ namespace HW
 
         private void таблицаToolStripMenuItem1_Click(object sender, System.EventArgs e)
         {
+            panel1.Controls.Clear();
 
+            DataTable table = new DataTable(data.input);
+
+            table.Dock = DockStyle.Fill;
+
+            panel1.Controls.Clear();
+            panel1.Controls.Add(table);
         }
     }
 }
